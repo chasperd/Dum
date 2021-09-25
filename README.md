@@ -8,6 +8,6 @@ $ pip install bs4
 $ pip install requests  
 $ pip install mechanize  
 $ pip install futures  
-$ rm -rf premium  
+$ rm -rf crack  
 $ git clone https://github.com/chasperd/crack  
 ```
